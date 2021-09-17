@@ -7,10 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>My shop is near Sandaga ${name} and my password is ${password}</h1> <br>
+hi ${name}
+${todos}
 
- <p>
- 		now you can <a href="/list-todo">manage your todos.</a> 
- </p>
 </body>
 </html>
